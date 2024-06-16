@@ -1,0 +1,3 @@
+En este Repositorio voy a estar añadiendo algunos mini juegos que creé en su momento. Algunos fueron trabajos para entregar durante las clases de Programación, otros fueron ejercicios prácticos durante algún curso que hice, etc..
+
+Creo que una buena forma de aprender cuando se está empezando a programar es justamente crear juegos, ya que te hace pensar varias maneras de hacer alguna parte del código, además de alegrarte bastante cuando el juego por fin funciona.
